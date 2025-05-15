@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(253, 253, 254);
+  font-family: "Robot" ,"sans-serif";
+}
+.control-group {
+  padding: 1rem;
+}
+
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.button-group button {
+  padding: 6px 12px;
+  background-color: #e0e0e0;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.button-group button.is-active {
+  background-color: #958DF1;
+  color: white;
+}
+.ProseMirror {
+  outline: none;
+  padding: 0.5rem;
+  min-height: 150px;
+  font-family: sans-serif;
+}
+
+.ProseMirror h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.ProseMirror h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0.75rem 0;
+}
+
+.ProseMirror strong {
+  font-weight: bold;
+}
+button.is-active {
+  background-color: #1976d2;
+  color: white;
+}
+
