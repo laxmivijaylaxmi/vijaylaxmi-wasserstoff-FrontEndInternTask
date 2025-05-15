@@ -3,9 +3,9 @@
 Hey viewers! 👋  
 This is my **Real-Time Collaborative Editor** project — a powerful, interactive platform where multiple users can **collaboratively edit text/code in real-time**, with instant syncing and user awareness.
 
-![Image](https://github.com/user-attachments/assets/d42a9df7-f700-492c-b8b2-1da85a52cbab)
-![Image](https://github.com/user-attachments/assets/75a15c5c-8a6a-4647-84da-b420a747ea23)
-![Image](https://github.com/user-attachments/assets/924b2d30-9ef3-43c3-b6b4-8ff6a73326c0)
+![Image](https://github.com/user-attachments/assets/c6e6c57d-3346-43d9-8389-a16a198aa24c)
+![Image](https://github.com/user-attachments/assets/25ae788f-2962-4e2a-8f28-fe9fa14cef69)
+![Image](https://github.com/user-attachments/assets/43cb55c2-d73d-46bd-bd79-a86ceac9aa6c)
 
 ---
 
